@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DRIOUICH OUSSAMA</h1>
-<h3 align="center">A passionate full stakc developer and future data scientist</h3>
+<h3 align="center">A passionate full stack developer and future data scientist</h3>
 
 - 🌱 I’m currently learning **Data Science,SpringBoot,Angular**
 
