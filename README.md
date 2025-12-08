@@ -46,13 +46,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 </a>
 <a href="https://huggingface.co/" target="_blank">
-  <img src="https://raw.githubusercontent.com/huggingface/logo/main/hf-logo.png" alt="huggingface" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Hugging_Face_logo.svg/1280px-Hugging_Face_logo.svg.png" alt="huggingface" width="40" height="40"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 <a href="https://www.openai.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/2560px-OpenAI_Logo.svg.png" alt="openai" width="40" height="40"/>
 </a>
 <a href="https://www.langchain.com/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" alt="langchain" width="40" height="40"/>
