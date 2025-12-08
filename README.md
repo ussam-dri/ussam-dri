@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DRIOUICH OUSSAMA</h1>
-<h3 align="center">A passionate Full Stack Developer and future Data Scientist</h3>
+<h3 align="center">A future Data Scientist and a passionate Full Stack Developer  </h3>
 
 - 🌱 I’m currently learning **Data Science, AI/ML, Deep Learning, Generative AI & LLMS fine-tuning**
 - 👨‍💻 All of my projects are available at [https://oussama.driouich.site/](https://oussama.driouich.site/)
