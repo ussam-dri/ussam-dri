@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at [https://oussama.driouich.site/](https://oussama.driouich.site/)
 - 💬 Ask me about **React, JEE, NodeJs, Python, AI & Data Science**
 - 📫 How to reach me **oussama119driouich@gmail.com**
-- 📄 Know about my experiences [my cv link]([https://portfolio.zelobrix.com/oussama_driouich_cv.pdf](https://drive.google.com/file/d/11f42nSMEvVexUJurLJfOPojU8QLZna6R/view))
+- 📄 Know about my experiences [my cv link](https://drive.google.com/file/d/11f42nSMEvVexUJurLJfOPojU8QLZna6R/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
