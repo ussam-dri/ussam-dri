@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm DRIOUICH OUSSAMA</h1>
 <h3 align="center">A passionate Full Stack Developer and future Data Scientist</h3>
 
-- 🌱 I’m currently learning **Data Science, AI/ML, Deep Learning, Spring Boot, Angular**
+- 🌱 I’m currently learning **Data Science, AI/ML, Deep Learning, Generative AI & LLMS fine-tuning**
 - 👨‍💻 All of my projects are available at [https://oussama.driouich.site/](https://oussama.driouich.site/)
 - 💬 Ask me about **React, JEE, NodeJs, Python, AI & Data Science**
 - 📫 How to reach me **oussama119driouich@gmail.com**
-- 📄 Know about my experiences [https://portfolio.zelobrix.com/oussama_driouich_cv.pdf](https://portfolio.zelobrix.com/oussama_driouich_cv.pdf)
+- 📄 Know about my experiences [my cv link]([https://portfolio.zelobrix.com/oussama_driouich_cv.pdf](https://drive.google.com/file/d/11f42nSMEvVexUJurLJfOPojU8QLZna6R/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
