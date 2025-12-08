@@ -32,13 +32,29 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
-  <!-- AI & Data Science -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsv92u0v454by2atsczk8.png)" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://www.openai.com/" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png)" alt="openai" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="[https://raw.githubusercontent.com/hwchase17/langchain/main/docs/assets/langchain-icon.svg](https://cdn.worldvectorlogo.com/logos/langchain-1.svg)" alt="langchain" width="40" height="40"/></a>
-</p>
+ <!-- AI & Data Science -->
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+</a>
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://raw.githubusercontent.com/huggingface/logo/main/hf-logo.png" alt="huggingface" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+</a>
+<a href="https://www.openai.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
+</a>
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" alt="langchain" width="40" height="40"/>
+</a>
+
