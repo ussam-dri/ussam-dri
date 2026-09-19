@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm DRIOUICH OUSSAMA</h1>
-<h3 align="center">A future Data Scientist and a passionate Full Stack Developer  </h3>
+<h1 align="center">Hi , I'm DRIOUICH OUSSAMA</h1>
+<h3 align="center">AI Engineer & Data Scientist | Generative AI | AI Agents| MLOps </h3> 
 
-- 🌱 I’m currently learning **Data Science, AI/ML, Deep Learning, Generative AI & LLMS fine-tuning**
-- 👨‍💻 All of my projects are available at [https://oussama.driouich.site/](https://oussama.driouich.site/)
-- 💬 Ask me about **React, JEE, NodeJs, Python, AI & Data Science**
-- 📫 How to reach me **oussama119driouich@gmail.com**
-- 📄 Know about my experiences [my cv link](https://drive.google.com/file/d/11f42nSMEvVexUJurLJfOPojU8QLZna6R/view)
+-  I’m currently learning **
+- ## Currently Learning
+
+ **AI Agent Systems** · Multi-Agent Systems · MCP · A2A · Agent Memory · Tool Calling  
+ **LLM Optimization** · KV Cache · Memory Optimization · Context & Token Efficiency  
+ **AI Security** · Prompt Injection · Guardrails · Sandboxing · Secure Tool Calling  
+ **Production AI** · Automation · Evaluation · Observability · Deployment · Scaling · CI/CD**
+-  All of my projects are available at [https://oussama-driouich.link/](https://oussama-driouich.link/)
+-  Ask me about ** AI Engineering & Data Science, Python,  JavaScript, Java**
+-  How to reach me **oussama119driouich@gmail.com**
+-  Know about my experiences [my cv link](https://drive.google.com/file/d/11f42nSMEvVexUJurLJfOPojU8QLZna6R/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
