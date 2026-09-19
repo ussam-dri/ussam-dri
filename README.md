@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer & Data Scientist | Generative AI | AI Agents| MLOps </h3> 
 
 
-- ## Currently Learning
+- ## Passionante about:
 
  **AI Agent Systems** · Multi-Agent Systems · MCP · A2A · Agent Memory · Tool Calling  
  **LLM Optimization** · KV Cache · Memory Optimization · Context & Token Efficiency  
