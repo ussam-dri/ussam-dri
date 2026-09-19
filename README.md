@@ -1,13 +1,14 @@
 <h1 align="center">Hi , I'm DRIOUICH OUSSAMA</h1>
 <h3 align="center">AI Engineer & Data Scientist | Generative AI | AI Agents| MLOps </h3> 
 
--  I’m currently learning **
+
 - ## Currently Learning
 
  **AI Agent Systems** · Multi-Agent Systems · MCP · A2A · Agent Memory · Tool Calling  
  **LLM Optimization** · KV Cache · Memory Optimization · Context & Token Efficiency  
  **AI Security** · Prompt Injection · Guardrails · Sandboxing · Secure Tool Calling  
- **Production AI** · Automation · Evaluation · Observability · Deployment · Scaling · CI/CD**
+ **Production AI** · Automation · Evaluation · Observability · Deployment · Scaling · CI/CD
+ 
 -  All of my projects are available at [https://oussama-driouich.link/](https://oussama-driouich.link/)
 -  Ask me about ** AI Engineering & Data Science, Python,  JavaScript, Java**
 -  How to reach me **oussama119driouich@gmail.com**
